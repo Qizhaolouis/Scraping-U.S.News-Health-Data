@@ -1,0 +1,321 @@
+,city,name,score,specialty,state,zipcode
+0,Houston,University of Texas MD Anderson Cancer Center,100.0,Cancer,TX,77030-4000
+1,New York,Memorial Sloan Kettering Cancer Center,97.4,Cancer,NY,10065-6007
+2,Rochester,Mayo Clinic,91.8,Cancer,MN,55902-1906
+3,Boston,Dana-Farber/Brigham and Women's Cancer Center,84.4,Cancer,MA,02215-5418
+4,Seattle,Seattle Cancer Alliance/University of Washington Medical Center,76.5,Cancer,WA,98109-4405
+5,Baltimore,Johns Hopkins Hospital,75.9,Cancer,MD,21205-1832
+6,Cleveland,Cleveland Clinic,75.0,Cancer,OH,44195-5108
+7,Philadelphia,Hospitals of the University of Pennsylvania-Penn Presbyterian,75.0,Cancer,PA,19104-4206
+8,Tampa,Moffitt Cancer Center and Research Institute,74.9,Cancer,FL,33612-9497
+9,San Francisco,UCSF Medical Center,73.3,Cancer,CA,94143-0296
+10,Stanford,Stanford Health Care-Stanford Hospital,73.2,Cancer,CA,94304-2203
+11,Boston,Massachusetts General Hospital,71.4,Cancer,MA,02114-2696
+12,Los Angeles,UCLA Medical Center,71.4,Cancer,CA,90095-8358
+13,Ann Arbor,University of Michigan Hospitals-Michigan Medicine,71.4,Cancer,MI,48109
+14,Los Angeles,USC Norris Cancer Hospital-Keck Medical Center of USC,70.5,Cancer,CA,90089-0112
+15,Chicago,Northwestern Memorial Hospital,69.9,Cancer,IL,60611-2908
+16,Phoenix,Mayo Clinic-Phoenix,69.6,Cancer,AZ,85054-4502
+17,Jacksonville,Mayo Clinic Jacksonville,69.5,Cancer,FL,32224-1865
+18,Saint Louis,Siteman Cancer Center,69.3,Cancer,MO,63110-1003
+19,Philadelphia,Jefferson Health-Thomas Jefferson University Hospitals,69.1,Cancer,PA,19107-5084
+20,Cleveland,Cleveland Clinic,100.0,Cardiology and Heart Surgery,OH,44195-5108
+21,Rochester,Mayo Clinic,99.5,Cardiology and Heart Surgery,MN,55902-1906
+22,New York,New York-Presbyterian Hospital-Columbia and Cornell,85.2,Cardiology and Heart Surgery,NY,10065-4870
+23,Los Angeles,Smidt Heart Institute at Cedars-Sinai,81.8,Cardiology and Heart Surgery,CA,90048-1865
+24,Boston,Massachusetts General Hospital,79.0,Cardiology and Heart Surgery,MA,02114-2696
+25,Baltimore,Johns Hopkins Hospital,77.3,Cardiology and Heart Surgery,MD,21205-1832
+26,Chicago,Northwestern Memorial Hospital,76.7,Cardiology and Heart Surgery,IL,60611-2908
+27,Philadelphia,Hospitals of the University of Pennsylvania-Penn Presbyterian,75.4,Cardiology and Heart Surgery,PA,19104-4206
+28,New York,Mount Sinai Hospital,75.1,Cardiology and Heart Surgery,NY,10029-0310
+29,Ann Arbor,University of Michigan Hospitals-Michigan Medicine,74.5,Cardiology and Heart Surgery,MI,48109
+30,Durham,Duke University Hospital,74.4,Cardiology and Heart Surgery,NC,27705-4699
+31,Boston,Brigham and Women's Hospital,73.5,Cardiology and Heart Surgery,MA,02115-6110
+32,Saint Louis,Barnes-Jewish Hospital,72.6,Cardiology and Heart Surgery,MO,63110-1003
+33,Los Angeles,UCLA Medical Center,72.3,Cardiology and Heart Surgery,CA,90095-8358
+34,Stanford,Stanford Health Care-Stanford Hospital,70.0,Cardiology and Heart Surgery,CA,94304-2203
+35,Plano,Heart Hospital Baylor Plano,67.7,Cardiology and Heart Surgery,TX,75093-5348
+36,Houston,Houston Methodist Hospital,67.7,Cardiology and Heart Surgery,TX,77030-2707
+37,Maywood,Loyola University Medical Center,67.4,Cardiology and Heart Surgery,IL,60153-3328
+38,New York,NYU Langone Hospitals,67.3,Cardiology and Heart Surgery,NY,10016-6402
+39,Pittsburgh,UPMC Presbyterian Shadyside,67.0,Cardiology and Heart Surgery,PA,15213-2536
+40,Rochester,Mayo Clinic,100.0,Diabetes and Endocrinology,MN,55902-1906
+41,Boston,Massachusetts General Hospital,84.1,Diabetes and Endocrinology,MA,02114-2696
+42,Cleveland,Cleveland Clinic,82.2,Diabetes and Endocrinology,OH,44195-5108
+43,Baltimore,Johns Hopkins Hospital,82.2,Diabetes and Endocrinology,MD,21205-1832
+44,New York,New York-Presbyterian Hospital-Columbia and Cornell,78.6,Diabetes and Endocrinology,NY,10065-4870
+45,Aurora,University of Colorado Hospital,77.0,Diabetes and Endocrinology,CO,80045-2545
+46,San Francisco,UCSF Medical Center,74.8,Diabetes and Endocrinology,CA,94143-0296
+47,Philadelphia,Hospitals of the University of Pennsylvania-Penn Presbyterian,74.4,Diabetes and Endocrinology,PA,19104-4206
+48,Pittsburgh,UPMC Presbyterian Shadyside,74.4,Diabetes and Endocrinology,PA,15213-2536
+49,Stanford,Stanford Health Care-Stanford Hospital,73.7,Diabetes and Endocrinology,CA,94304-2203
+50,Minneapolis,Abbott Northwestern Hospital,72.9,Diabetes and Endocrinology,MN,55407-3799
+51,Detroit,DMC Harper University Hospital,72.8,Diabetes and Endocrinology,MI,48201-2018
+52,Tampa,Tampa General Hospital,72.5,Diabetes and Endocrinology,FL,33606-3571
+53,Royal Oak,Beaumont Hospital-Royal Oak,72.4,Diabetes and Endocrinology,MI,48073-6712
+54,La Jolla,Scripps La Jolla Hospitals,72.4,Diabetes and Endocrinology,CA,92037-1200
+55,Los Angeles,UCLA Medical Center,71.7,Diabetes and Endocrinology,CA,90095-8358
+56,Ann Arbor,University of Michigan Hospitals-Michigan Medicine,71.6,Diabetes and Endocrinology,MI,48109
+57,Los Angeles,Cedars-Sinai Medical Center,71.5,Diabetes and Endocrinology,CA,90048-1865
+58,New York,Mount Sinai Hospital,70.9,Diabetes and Endocrinology,NY,10029-0310
+59,Portland,OHSU Hospital,70.8,Diabetes and Endocrinology,OR,97239-3098
+60,Baltimore,Johns Hopkins Hospital,100.0,Ear Nose and Throat,MD,21205-1832
+61,Boston,"Massachusetts Eye and Ear Infirmary, Massachusetts General Hospital",98.7,Ear Nose and Throat,MA,02114-3002
+62,Los Angeles,UCLA Medical Center,98.7,Ear Nose and Throat,CA,90095-8358
+63,Rochester,Mayo Clinic,96.5,Ear Nose and Throat,MN,55902-1906
+64,Iowa City,University of Iowa Hospitals and Clinics,95.9,Ear Nose and Throat,IA,52242-1009
+65,Columbus,Ohio State University Wexner Medical Center,93.4,Ear Nose and Throat,OH,43210-1238
+66,Ann Arbor,University of Michigan Hospitals-Michigan Medicine,93.4,Ear Nose and Throat,MI,48109
+67,Philadelphia,Jefferson Health-Thomas Jefferson University Hospitals,92.1,Ear Nose and Throat,PA,19107-5084
+68,Stanford,Stanford Health Care-Stanford Hospital,91.2,Ear Nose and Throat,CA,94304-2203
+69,San Francisco,UCSF Medical Center,88.4,Ear Nose and Throat,CA,94143-0296
+70,Charleston,MUSC Health-University Medical Center,87.6,Ear Nose and Throat,SC,29425-8905
+71,Cleveland,University Hospitals Cleveland Medical Center,86.1,Ear Nose and Throat,OH,44106-1716
+72,Philadelphia,Hospitals of the University of Pennsylvania-Penn Presbyterian,85.9,Ear Nose and Throat,PA,19104-4206
+73,Chapel Hill,University of North Carolina Hospitals,85.3,Ear Nose and Throat,NC,27514-4220
+74,Houston,University of Texas MD Anderson Cancer Center,83.1,Ear Nose and Throat,TX,77030-4000
+75,Cleveland,Cleveland Clinic,81.5,Ear Nose and Throat,OH,44195-5108
+76,Cincinnati,University of Cincinnati Medical Center,81.1,Ear Nose and Throat,OH,45219-2316
+77,Portland,OHSU Hospital,81.0,Ear Nose and Throat,OR,97239-3098
+78,Salt Lake City,University of Utah Hospital,81.0,Ear Nose and Throat,UT,84132-0002
+79,New York,Memorial Sloan Kettering Cancer Center,80.5,Ear Nose and Throat,NY,10065-6007
+80,Rochester,Mayo Clinic,100.0,Gastroenterology and GI Surgery,MN,55902-1906
+81,Cleveland,Cleveland Clinic,88.4,Gastroenterology and GI Surgery,OH,44195-5108
+82,Baltimore,Johns Hopkins Hospital,83.6,Gastroenterology and GI Surgery,MD,21205-1832
+83,Los Angeles,Cedars-Sinai Medical Center,78.7,Gastroenterology and GI Surgery,CA,90048-1865
+84,Boston,Massachusetts General Hospital,78.5,Gastroenterology and GI Surgery,MA,02114-2696
+85,Pittsburgh,UPMC Presbyterian Shadyside,77.2,Gastroenterology and GI Surgery,PA,15213-2536
+86,Jacksonville,Mayo Clinic Jacksonville,76.0,Gastroenterology and GI Surgery,FL,32224-1865
+87,New York,Mount Sinai Hospital,75.3,Gastroenterology and GI Surgery,NY,10029-0310
+88,Ann Arbor,University of Michigan Hospitals-Michigan Medicine,74.7,Gastroenterology and GI Surgery,MI,48109
+89,Phoenix,Mayo Clinic-Phoenix,74.4,Gastroenterology and GI Surgery,AZ,85054-4502
+90,Los Angeles,UCLA Medical Center,73.7,Gastroenterology and GI Surgery,CA,90095-8358
+91,Philadelphia,Hospitals of the University of Pennsylvania-Penn Presbyterian,73.1,Gastroenterology and GI Surgery,PA,19104-4206
+92,Houston,Houston Methodist Hospital,73.1,Gastroenterology and GI Surgery,TX,77030-2707
+93,New York,New York-Presbyterian Hospital-Columbia and Cornell,71.8,Gastroenterology and GI Surgery,NY,10065-4870
+94,Royal Oak,Beaumont Hospital-Royal Oak,70.8,Gastroenterology and GI Surgery,MI,48073-6712
+95,Aurora,University of Colorado Hospital,70.5,Gastroenterology and GI Surgery,CO,80045-2545
+96,Philadelphia,Jefferson Health-Thomas Jefferson University Hospitals,70.3,Gastroenterology and GI Surgery,PA,19107-5084
+97,San Francisco,UCSF Medical Center,70.3,Gastroenterology and GI Surgery,CA,94143-0296
+98,New York,NYU Langone Hospitals,70.2,Gastroenterology and GI Surgery,NY,10016-6402
+99,Saint Louis,Barnes-Jewish Hospital,70.0,Gastroenterology and GI Surgery,MO,63110-1003
+100,Rochester,Mayo Clinic,100.0,geriatric care,MN,55902-1906
+101,Baltimore,Johns Hopkins Hospital,96.1,geriatric care,MD,21205-1832
+102,New York,Mount Sinai Hospital,94.3,geriatric care,NY,10029-0310
+103,Los Angeles,UCLA Medical Center,89.0,geriatric care,CA,90095-8358
+104,Cleveland,Cleveland Clinic,87.1,geriatric care,OH,44195-5108
+105,New York,New York-Presbyterian Hospital-Columbia and Cornell,85.4,geriatric care,NY,10065-4870
+106,Ann Arbor,University of Michigan Hospitals-Michigan Medicine,85.3,geriatric care,MI,48109
+107,Boston,Massachusetts General Hospital,85.1,geriatric care,MA,02114-2696
+108,Chicago,Northwestern Memorial Hospital,84.0,geriatric care,IL,60611-2908
+109,San Francisco,UCSF Medical Center,83.8,geriatric care,CA,94143-0296
+110,Pittsburgh,UPMC Presbyterian Shadyside,82.4,geriatric care,PA,15213-2536
+111,New York,NYU Langone Hospitals,81.9,geriatric care,NY,10016-6402
+112,Philadelphia,Hospitals of the University of Pennsylvania-Penn Presbyterian,80.5,geriatric care,PA,19104-4206
+113,Chicago,Rush University Medical Center,79.5,geriatric care,IL,60612-3833
+114,Phoenix,Mayo Clinic-Phoenix,79.3,geriatric care,AZ,85054-4502
+115,New Haven,Yale New Haven Hospital,79.3,geriatric care,CT,06510-3202
+116,Saint Louis,Barnes-Jewish Hospital,78.7,geriatric care,MO,63110-1003
+117,Kansas City,University of Kansas Hospital,78.1,geriatric care,KS,66160-7200
+118,Sacramento,"University of California, Davis Medical Center",77.8,geriatric care,CA,95817-2282
+119,Seattle,University of Washington Medical Center,77.5,geriatric care,WA,98195-6151
+120,Rochester,Mayo Clinic,100.0,Gynecology,MN,55902-1906
+121,New York,Memorial Sloan Kettering Cancer Center,91.6,Gynecology,NY,10065-6007
+122,Ann Arbor,University of Michigan Hospitals-Michigan Medicine,90.3,Gynecology,MI,48109
+123,Boston,Brigham and Women's Hospital,90.2,Gynecology,MA,02115-6110
+124,Cleveland,Cleveland Clinic,89.4,Gynecology,OH,44195-5108
+125,Baltimore,Johns Hopkins Hospital,88.7,Gynecology,MD,21205-1832
+126,Stanford,Stanford Health Care-Stanford Hospital,86.8,Gynecology,CA,94304-2203
+127,San Francisco,UCSF Medical Center,86.6,Gynecology,CA,94143-0296
+128,Pasadena,Huntington Memorial Hospital,84.9,Gynecology,CA,91105-3097
+129,La Jolla,Scripps La Jolla Hospitals,83.1,Gynecology,CA,92037-1200
+130,Boston,Massachusetts General Hospital,82.5,Gynecology,MA,02114-2696
+131,Sacramento,"University of California, Davis Medical Center",82.4,Gynecology,CA,95817-2282
+132,Madison,University of Wisconsin Hospitals,81.4,Gynecology,WI,53792-0002
+133,Los Angeles,UCLA Medical Center,80.3,Gynecology,CA,90095-8358
+134,Nashville,Vanderbilt University Medical Center,80.3,Gynecology,TN,37232-2102
+135,New York,New York-Presbyterian Hospital-Columbia and Cornell,79.6,Gynecology,NY,10065-4870
+136,Houston,University of Texas MD Anderson Cancer Center,78.6,Gynecology,TX,77030-4000
+137,Saint Louis,Barnes-Jewish Hospital,78.5,Gynecology,MO,63110-1003
+138,Dallas,Medical City Dallas,78.2,Gynecology,TX,75230-2598
+139,Cleveland,University Hospitals Cleveland Medical Center,78.2,Gynecology,OH,44106-1716
+140,Rochester,Mayo Clinic,100.0,Nephrology,MN,55902-1906
+141,Cleveland,Cleveland Clinic,94.7,Nephrology,OH,44195-5108
+142,Baltimore,Johns Hopkins Hospital,89.3,Nephrology,MD,21205-1832
+143,New York,New York-Presbyterian Hospital-Columbia and Cornell,88.7,Nephrology,NY,10065-4870
+144,San Francisco,UCSF Medical Center,87.3,Nephrology,CA,94143-0296
+145,Los Angeles,UCLA Medical Center,86.2,Nephrology,CA,90095-8358
+146,Philadelphia,Hospitals of the University of Pennsylvania-Penn Presbyterian,83.5,Nephrology,PA,19104-4206
+147,Boston,Massachusetts General Hospital,82.8,Nephrology,MA,02114-2696
+148,Saint Louis,Barnes-Jewish Hospital,82.2,Nephrology,MO,63110-1003
+149,New York,Mount Sinai Hospital,82.0,Nephrology,NY,10029-0310
+150,Aurora,University of Colorado Hospital,81.7,Nephrology,CO,80045-2545
+151,Nashville,Vanderbilt University Medical Center,81.3,Nephrology,TN,37232-2102
+152,Ann Arbor,University of Michigan Hospitals-Michigan Medicine,80.7,Nephrology,MI,48109
+153,Birmingham,University of Alabama at Birmingham Hospital,80.4,Nephrology,AL,35249-1900
+154,Los Angeles,Cedars-Sinai Medical Center,79.8,Nephrology,CA,90048-1865
+155,Stanford,Stanford Health Care-Stanford Hospital,79.4,Nephrology,CA,94304-2203
+156,Columbus,Ohio State University Wexner Medical Center,79.1,Nephrology,OH,43210-1238
+157,Tampa,Tampa General Hospital,79.0,Nephrology,FL,33606-3571
+158,Indianapolis,Indiana University Health Academic Health Center,78.9,Nephrology,IN,46202-5149
+159,Chapel Hill,University of North Carolina Hospitals,78.2,Nephrology,NC,27514-4220
+160,Rochester,Mayo Clinic,100.0,Neurology and Neurosurgery,MN,55902-1906
+161,Baltimore,Johns Hopkins Hospital,92.0,Neurology and Neurosurgery,MD,21205-1832
+162,Boston,Massachusetts General Hospital,85.8,Neurology and Neurosurgery,MA,02114-2696
+163,New York,New York-Presbyterian Hospital-Columbia and Cornell,85.3,Neurology and Neurosurgery,NY,10065-4870
+164,San Francisco,UCSF Medical Center,84.7,Neurology and Neurosurgery,CA,94143-0296
+165,Cleveland,Cleveland Clinic,83.7,Neurology and Neurosurgery,OH,44195-5108
+166,Saint Louis,Barnes-Jewish Hospital,77.6,Neurology and Neurosurgery,MO,63110-1003
+167,Ann Arbor,University of Michigan Hospitals-Michigan Medicine,76.7,Neurology and Neurosurgery,MI,48109
+168,Chicago,Northwestern Memorial Hospital,76.6,Neurology and Neurosurgery,IL,60611-2908
+169,New York,NYU Langone Hospitals,75.8,Neurology and Neurosurgery,NY,10016-6402
+170,Los Angeles,UCLA Medical Center,75.7,Neurology and Neurosurgery,CA,90095-8358
+171,Philadelphia,Hospitals of the University of Pennsylvania-Penn Presbyterian,73.4,Neurology and Neurosurgery,PA,19104-4206
+172,Stanford,Stanford Health Care-Stanford Hospital,72.3,Neurology and Neurosurgery,CA,94304-2203
+173,Los Angeles,Cedars-Sinai Medical Center,72.0,Neurology and Neurosurgery,CA,90048-1865
+174,Phoenix,St. Joseph's Hospital and Medical Center,71.4,Neurology and Neurosurgery,AZ,85013-4496
+175,New York,Mount Sinai Hospital,71.3,Neurology and Neurosurgery,NY,10029-0310
+176,Chicago,Rush University Medical Center,70.6,Neurology and Neurosurgery,IL,60612-3833
+177,Houston,Houston Methodist Hospital,70.1,Neurology and Neurosurgery,TX,77030-2707
+178,Boston,Brigham and Women's Hospital,69.4,Neurology and Neurosurgery,MA,02115-6110
+179,Pittsburgh,UPMC Presbyterian Shadyside,67.5,Neurology and Neurosurgery,PA,15213-2536
+180,Miami,Bascom Palmer Eye Institute-Anne Bates Leach Eye Hospital,59.6,Ophthalmology,FL,33136-1199
+181,Philadelphia,"Wills Eye Hospital, Thomas Jefferson University Hospital",53.0,Ophthalmology,PA,19017-5109
+182,Baltimore,"Wilmer Eye Institute, Johns Hopkins Hospital",43.1,Ophthalmology,MD,21205-1832
+183,Boston,"Massachusetts Eye and Ear Infirmary, Massachusetts General Hospital",29.1,Ophthalmology,MA,02114-3002
+184,Los Angeles,"Stein and Doheny Eye Institutes, UCLA Medical Center",23.7,Ophthalmology,CA,90095-8358
+185,Durham,Duke University Hospital,12.6,Ophthalmology,NC,27705-4699
+186,Iowa City,University of Iowa Hospitals and Clinics,12.6,Ophthalmology,IA,52242-1009
+187,Ann Arbor,Kellogg Eye Center-Michigan Medicine,9.4,Ophthalmology,MI,48109
+188,Cleveland,"Cole Eye Institute, Cleveland Clinic",9.0,Ophthalmology,OH,44195-5108
+189,San Francisco,UCSF Medical Center,7.0,Ophthalmology,CA,94143-0296
+190,Los Angeles,USC Roski Eye Institute,5.7,Ophthalmology,CA,90033-5313
+191,New York,New York Eye and Ear Infirmary of Mount Sinai,5.6,Ophthalmology,NY,10003-4201
+192,Atlanta,Emory University Hospital,5.1,Ophthalmology,GA,30322
+193,Rochester,Mayo Clinic,4.6,Ophthalmology,MN,55902-1906
+194,Salt Lake City,"John A. Moran Eye Center, University of Utah Hospitals and Clinics",4.1,Ophthalmology,UT,84132-0002
+195,Saint Louis,Barnes-Jewish Hospital,3.4,Ophthalmology,MO,63110-1003
+196,New York,New York-Presbyterian Hospital-Columbia and Cornell,2.8,Ophthalmology,NY,10065-4870
+197,Dallas,UT Southwestern Medical Center,2.8,Ophthalmology,TX,75390-9265
+198,Stanford,"Byers Eye Institute, Stanford Health Care",2.6,Ophthalmology,CA,94304-2203
+199,Philadelphia,"Scheie Eye Institute, Hospitals of the University of Pennsylvania-Penn Presbyterian",2.5,Ophthalmology,PA,19104-4206
+200,New York,Hospital for Special Surgery,100.0,Orthopedics,NY,10021-4898
+201,Rochester,Mayo Clinic,82.4,Orthopedics,MN,55902-1906
+202,Cleveland,Cleveland Clinic,73.6,Orthopedics,OH,44195-5108
+203,Philadelphia,Rothman Institute at Thomas Jefferson University Hospitals,72.2,Orthopedics,PA,19107-5084
+204,Chicago,Rush University Medical Center,71.0,Orthopedics,IL,60612-3833
+205,San Francisco,UCSF Medical Center,69.5,Orthopedics,CA,94143-0296
+206,Boston,Massachusetts General Hospital,68.6,Orthopedics,MA,02114-2696
+207,New York,"Hospital for Joint Diseases, NYU Langone Medical Center",66.8,Orthopedics,NY,10016-6402
+208,Chicago,Northwestern Memorial Hospital,66.7,Orthopedics,IL,60611-2908
+209,Los Angeles,Cedars-Sinai Medical Center,66.5,Orthopedics,CA,90048-1865
+210,Baltimore,Johns Hopkins Hospital,65.8,Orthopedics,MD,21205-1832
+211,Stanford,Stanford Health Care-Stanford Hospital,64.8,Orthopedics,CA,94304-2203
+212,Saint Louis,Barnes-Jewish Hospital,64.1,Orthopedics,MO,63110-1003
+213,Santa Monica,Santa Monica-UCLA Medical Center and Orthopedic Hospital,62.8,Orthopedics,CA,90404-1249
+214,Boston,New England Baptist Hospital,62.4,Orthopedics,MA,02120-2847
+215,Philadelphia,Hospitals of the University of Pennsylvania-Penn Presbyterian,62.1,Orthopedics,PA,19104-4206
+216,Iowa City,University of Iowa Hospitals and Clinics,62.0,Orthopedics,IA,52242-1009
+217,Aurora,University of Colorado Hospital,61.9,Orthopedics,CO,80045-2545
+218,Minneapolis,Abbott Northwestern Hospital,61.8,Orthopedics,MN,55407-3799
+219,San Diego,UC San Diego Health-UC San Diego Medical Center,61.7,Orthopedics,CA,92103-9000
+220,Belmont,McLean Hospital,23.0,Psychiatry,MA,02478-1064
+221,Boston,Massachusetts General Hospital,20.0,Psychiatry,MA,02114-2696
+222,Houston,Menninger Clinic,17.7,Psychiatry,TX,77035-6207
+223,New York,New York-Presbyterian Hospital-Columbia and Cornell,16.8,Psychiatry,NY,10065-4870
+224,Baltimore,Johns Hopkins Hospital,16.4,Psychiatry,MD,21205-1832
+225,Baltimore,Sheppard Pratt Hospital,15.2,Psychiatry,MD,21204-6819
+226,Rochester,Mayo Clinic,12.0,Psychiatry,MN,55902-1906
+227,Los Angeles,Resnick Neuropsychiatric Hospital at UCLA,11.7,Psychiatry,CA,90095-8353
+228,Stockbridge,Austen Riggs Center,6.9,Psychiatry,MA,01262
+229,San Francisco,UCSF Medical Center,6.4,Psychiatry,CA,94143-0296
+230,New Haven,Yale New Haven Hospital,5.7,Psychiatry,CT,06510-3202
+231,Pittsburgh,UPMC Presbyterian Shadyside,5.2,Psychiatry,PA,15213-2536
+232,Cleveland,Cleveland Clinic,3.6,Psychiatry,OH,44195-5108
+233,New York,NYU Langone Hospitals,3.5,Psychiatry,NY,10016-6402
+234,New York,Mount Sinai Hospital,3.4,Psychiatry,NY,10029-0310
+235,Philadelphia,Hospitals of the University of Pennsylvania-Penn Presbyterian,3.2,Psychiatry,PA,19104-4206
+236,Saint Louis,Barnes-Jewish Hospital,3.0,Psychiatry,MO,63110-1003
+237,Hartford,Hartford Hospital's Institute of Living,2.7,Psychiatry,CT,06102-8000
+238,New York,NYC Health and Hospitals/Bellevue,2.6,Psychiatry,NY,10016-9198
+239,Stanford,Stanford Health Care-Stanford Hospital,2.6,Psychiatry,CA,94304-2203
+240,Denver,"National Jewish Health, Denver-University of Colorado Hospital",100.0,Pulmonology,CO,80206-2762
+241,Rochester,Mayo Clinic,97.6,Pulmonology,MN,55902-1906
+242,Cleveland,Cleveland Clinic,87.2,Pulmonology,OH,44195-5108
+243,Boston,Massachusetts General Hospital,82.9,Pulmonology,MA,02114-2696
+244,Pittsburgh,UPMC Presbyterian Shadyside,79.5,Pulmonology,PA,15213-2536
+245,San Francisco,UCSF Medical Center,78.8,Pulmonology,CA,94143-0296
+246,Ann Arbor,University of Michigan Hospitals-Michigan Medicine,78.8,Pulmonology,MI,48109
+247,Saint Louis,Barnes-Jewish Hospital,77.9,Pulmonology,MO,63110-1003
+248,Philadelphia,Hospitals of the University of Pennsylvania-Penn Presbyterian,77.3,Pulmonology,PA,19104-4206
+249,Los Angeles,UCLA Medical Center,77.1,Pulmonology,CA,90095-8358
+250,Baltimore,Johns Hopkins Hospital,76.6,Pulmonology,MD,21205-1832
+251,Durham,Duke University Hospital,75.9,Pulmonology,NC,27705-4699
+252,San Diego,UC San Diego Health-UC San Diego Medical Center,74.9,Pulmonology,CA,92103-9000
+253,Phoenix,Mayo Clinic-Phoenix,74.7,Pulmonology,AZ,85054-4502
+254,Houston,Houston Methodist Hospital,74.6,Pulmonology,TX,77030-2707
+255,La Jolla,Scripps La Jolla Hospitals,74.6,Pulmonology,CA,92037-1200
+256,New York,New York-Presbyterian Hospital-Columbia and Cornell,74.2,Pulmonology,NY,10065-4870
+257,Birmingham,University of Alabama at Birmingham Hospital,74.2,Pulmonology,AL,35249-1900
+258,New Haven,Yale New Haven Hospital,74.0,Pulmonology,CT,06510-3202
+259,Los Angeles,Cedars-Sinai Medical Center,73.4,Pulmonology,CA,90048-1865
+260,Chicago,Shirley Ryan AbilityLab,39.4,Rehabilitation,IL,60611-2654
+261,Houston,TIRR Memorial Hermann,22.2,Rehabilitation,TX,77030-3405
+262,West Orange,Kessler Institute for Rehabilitation,20.4,Rehabilitation,NJ,07052-1424
+263,Charlestown,"Spaulding Rehabilitation Hospital, Massachusetts General Hospital",18.9,Rehabilitation,MA,02129-3109
+264,Seattle,University of Washington Medical Center,17.9,Rehabilitation,WA,98195-6151
+265,Rochester,Mayo Clinic,15.7,Rehabilitation,MN,55902-1906
+266,Englewood,Craig Hospital,12.6,Rehabilitation,CO,80113-2899
+267,New York,Rusk Rehabilitation at NYU Langone Medical Center,10.4,Rehabilitation,NY,10016-6402
+268,Atlanta,Shepherd Center,9.6,Rehabilitation,GA,30309-1465
+269,Elkins Park,MossRehab,7.9,Rehabilitation,PA,19027-2220
+270,Pittsburgh,UPMC Presbyterian Shadyside,6.0,Rehabilitation,PA,15213-2536
+271,New York,New York-Presbyterian Hospital-Columbia and Cornell,5.6,Rehabilitation,NY,10065-4870
+272,Philadelphia,Magee Rehabilitation Hospital,5.2,Rehabilitation,PA,19102-1177
+273,Ann Arbor,University of Michigan Hospitals-Michigan Medicine,5.0,Rehabilitation,MI,48109
+274,Columbus,Ohio State University Wexner Medical Center,3.6,Rehabilitation,OH,43210-1238
+275,Birmingham,University of Alabama at Birmingham Hospital,3.5,Rehabilitation,AL,35249-1900
+276,San Jose,Santa Clara Valley Medical Center,3.4,Rehabilitation,CA,95128-2699
+277,Philadelphia,Jefferson Health-Thomas Jefferson University Hospitals,3.0,Rehabilitation,PA,19107-5084
+278,Dallas,Baylor Scott and White Institute for Rehabilitation–Dallas,2.9,Rehabilitation,TX,75246-1520
+279,Seattle,UW Medicine/Harborview Medical Center,2.9,Rehabilitation,WA,98104-2499
+280,Baltimore,Johns Hopkins Hospital,43.8,Rheumatology,MD,21205-1832
+281,Cleveland,Cleveland Clinic,39.3,Rheumatology,OH,44195-5108
+282,New York,"Hospital for Special Surgery, New York-Presbyterian University Hospital of Columbia and Cornell",39.1,Rheumatology,NY,10021-4898
+283,Rochester,Mayo Clinic,35.8,Rheumatology,MN,55902-1906
+284,Boston,Brigham and Women's Hospital,23.1,Rheumatology,MA,02115-6110
+285,Los Angeles,UCLA Medical Center,18.8,Rheumatology,CA,90095-8358
+286,San Francisco,UCSF Medical Center,14.7,Rheumatology,CA,94143-0296
+287,Boston,Massachusetts General Hospital,14.1,Rheumatology,MA,02114-2696
+288,New York,"Hospital for Joint Diseases, NYU Langone Medical Center",12.6,Rheumatology,NY,10016-6402
+289,Birmingham,University of Alabama at Birmingham Hospital,9.7,Rheumatology,AL,35249-1900
+290,Pittsburgh,UPMC Presbyterian Shadyside,7.6,Rheumatology,PA,15213-2536
+291,Ann Arbor,University of Michigan Hospitals-Michigan Medicine,7.4,Rheumatology,MI,48109
+292,Durham,Duke University Hospital,6.9,Rheumatology,NC,27705-4699
+293,Stanford,Stanford Health Care-Stanford Hospital,5.9,Rheumatology,CA,94304-2203
+294,Chicago,Northwestern Memorial Hospital,4.8,Rheumatology,IL,60611-2908
+295,Philadelphia,Hospitals of the University of Pennsylvania-Penn Presbyterian,4.3,Rheumatology,PA,19104-4206
+296,Saint Louis,Barnes-Jewish Hospital,4.2,Rheumatology,MO,63110-1003
+297,Aurora,University of Colorado Hospital,3.6,Rheumatology,CO,80045-2545
+298,Charleston,MUSC Health-University Medical Center,3.4,Rheumatology,SC,29425-8905
+299,La Jolla,Scripps La Jolla Hospitals,3.1,Rheumatology,CA,92037-1200
+300,Cleveland,Cleveland Clinic,100.0,Urology,OH,44195-5108
+301,Rochester,Mayo Clinic,99.5,Urology,MN,55902-1906
+302,Baltimore,Johns Hopkins Hospital,95.9,Urology,MD,21205-1832
+303,Los Angeles,UCLA Medical Center,86.6,Urology,CA,90095-8358
+304,New York,Memorial Sloan Kettering Cancer Center,86.3,Urology,NY,10065-6007
+305,San Francisco,UCSF Medical Center,85.1,Urology,CA,94143-0296
+306,Ann Arbor,University of Michigan Hospitals-Michigan Medicine,83.7,Urology,MI,48109
+307,New York,New York-Presbyterian Hospital-Columbia and Cornell,80.4,Urology,NY,10065-4870
+308,Nashville,Vanderbilt University Medical Center,80.2,Urology,TN,37232-2102
+309,Durham,Duke University Hospital,80.1,Urology,NC,27705-4699
+310,Chicago,Northwestern Memorial Hospital,79.0,Urology,IL,60611-2908
+311,Los Angeles,Cedars-Sinai Medical Center,78.0,Urology,CA,90048-1865
+312,Pittsburgh,UPMC Presbyterian Shadyside,77.7,Urology,PA,15213-2536
+313,Stanford,Stanford Health Care-Stanford Hospital,77.3,Urology,CA,94304-2203
+314,New York,NYU Langone Hospitals,76.5,Urology,NY,10016-6402
+315,Madison,University of Wisconsin Hospitals,76.0,Urology,WI,53792-0002
+316,Kansas City,University of Kansas Hospital,75.6,Urology,KS,66160-7200
+317,Saint Louis,Barnes-Jewish Hospital,74.4,Urology,MO,63110-1003
+318,Dallas,UT Southwestern Medical Center,74.2,Urology,TX,75390-9265
+319,Birmingham,University of Alabama at Birmingham Hospital,73.8,Urology,AL,35249-1900
