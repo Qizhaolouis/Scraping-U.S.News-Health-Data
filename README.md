@@ -1,6 +1,8 @@
 
 # Best Hospitals of Different Specialty
 
+This is a sample project to show how I scrape and clean data.
+
 - Scrape the data from the <a href='https://health.usnews.com/best-hospitals/search'>U.S.News Health</a>.
 - Get the top 50 hospitals' detailed data.
   - Name
