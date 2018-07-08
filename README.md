@@ -1,7 +1,6 @@
 
 # Best Hospitals of Different Specialty
 
-<font color='coral'>
 - Scrape the data from the <a href='https://health.usnews.com/best-hospitals/search'>U.S.News Health</a>.
 - Get the top 50 hospitals' detailed data.
   - Name
@@ -123,8 +122,6 @@ fields
 
 ## Data Cleaning Functions
 
-<font color='coral'>
-
 
 - Using the `Specialty` area
 - Click `Load More` to get top 20 data.
@@ -165,7 +162,6 @@ def get_address(data1):
     return zipcode, city, state
 ```
 
-<font color='blue'>
     
 ## Scrape Data
 
