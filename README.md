@@ -313,7 +313,7 @@ from uszipcode import ZipcodeSearchEngine
 import googlemaps
 from datetime import datetime
 ## Getting API
-gmaps = googlemaps.Client(key='AIzaSyA3SamAV641tF4lVHTLfYewQ-6-Mtz6i60')
+gmaps = googlemaps.Client(key='**********')
 search = ZipcodeSearchEngine()
 ```
 
