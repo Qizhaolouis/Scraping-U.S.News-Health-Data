@@ -350,7 +350,7 @@ hospitals['long'] = pd.DataFrame(location)['lng']
 hospitals.to_csv('best_hospital.csv', index = False)
 ```
 
-## Now we have the final data.
+## Data.
 
 
 ```python
